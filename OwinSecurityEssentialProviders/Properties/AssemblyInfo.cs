@@ -5,12 +5,12 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("Pysco68.Owin.Authentication.Ntlm")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyTitle("OwinSecurityEssentialProviders")]
+[assembly: AssemblyDescription("Set ot security providers for variety projects")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("Yannic Staudt")]
-[assembly: AssemblyProduct("Pysco68.Owin.Authentication.Ntlm")]
-[assembly: AssemblyCopyright("Copyright © Yannic 'Pysco68' Staudt 2014")]
+[assembly: AssemblyCompany("Iveonik")]
+[assembly: AssemblyProduct("")]
+[assembly: AssemblyCopyright("Iveonik, 2016")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("ef7dc6ac-1619-4a9a-b1c8-26a6d3ad649c")]
+[assembly: Guid("BE0E2528-07E7-48D7-9163-5360104014E1")]
 
 // Version information for an assembly consists of the following four values:
 //
@@ -32,5 +32,5 @@ using System.Runtime.InteropServices;
 // You can specify all the values or you can default the Build and Revision Numbers 
 // by using the '*' as shown below:
 // [assembly: AssemblyVersion("2.0.409.33140")]
-[assembly: AssemblyVersion("2.0.409.33140")]
-[assembly: AssemblyFileVersion("2.0.409.33140")]
+[assembly: AssemblyVersion("1.0.0.0")]
+[assembly: AssemblyFileVersion("1.0.0.0")]

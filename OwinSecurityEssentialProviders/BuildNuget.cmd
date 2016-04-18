@@ -1,0 +1,1 @@
+nuget pack OwinSecurityEssentialProviders.csproj -Prop Configuration=Release -IncludeReferencedProjects
